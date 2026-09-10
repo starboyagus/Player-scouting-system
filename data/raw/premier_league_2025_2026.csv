@@ -1,0 +1,461 @@
+player,squad,position,position_category,age,minutes,league,season,goals,xg,shots,shots_on_target,assists,xag,key_passes,passes_completed,progressive_passes,through_balls,pass_completion_pct,progressive_carries,successful_takeons,takeon_success_pct,touches_att_pen,tackles_won,interceptions,blocks,clearances,ball_recoveries,aerials_won_pct
+Erling Haaland,Manchester City,FW,FW,25,2350,Premier League,2025-2026,24,23,107,55,4,4,24,371,29,3,74.5,50,16,46.0,204,5,3,8,10,39,48.0
+Mohamed Salah,Liverpool,W,W,33,2420,Premier League,2025-2026,18,17,91,40,10,9,67,793,124,16,76.8,129,48,48.5,218,22,8,22,8,91,28.0
+Bukayo Saka,Arsenal,W,W,24,2480,Premier League,2025-2026,13,12,74,30,12,11,77,882,132,14,79.5,187,72,54.0,190,47,17,33,17,121,42.0
+Cole Palmer,Chelsea,AM,AM,23,2510,Premier League,2025-2026,15,14,89,36,10,11,81,1241,178,25,82.3,117,53,56.5,134,33,17,28,11,114,32.0
+Martin Odegaard,Arsenal,AM,AM,27,2380,Premier League,2025-2026,7,8,63,24,9,11,85,1428,217,21,85.0,108,45,58.0,111,40,21,34,11,143,35.0
+Rodri,Manchester City,DM,DM,29,2200,Premier League,2025-2026,4,3,42,12,5,5,39,2261,230,12,92.8,59,27,72.0,37,64,37,44,46,218,68.0
+Declan Rice,Arsenal,CM,CM,27,2580,Premier League,2025-2026,5,4,40,11,7,6,49,1777,195,9,89.2,100,37,64.0,60,80,54,46,49,224,56.0
+Trent Alexander-Arnold,Liverpool,FB,FB,27,2310,Premier League,2025-2026,2,2,38,10,9,10,69,1745,226,18,78.4,72,31,53.0,36,49,33,36,54,167,44.0
+William Saliba,Arsenal,CB,CB,24,2650,Premier League,2025-2026,2,1,12,3,1,1,9,2120,121,1,92.5,47,15,75.0,24,62,53,56,121,180,65.0
+Virgil van Dijk,Liverpool,CB,CB,34,2600,Premier League,2025-2026,2,3,26,9,1,1,12,2210,139,3,91.2,35,9,80.0,32,40,55,52,156,182,78.5
+Alexander Isak,Newcastle United,FW,FW,26,2240,Premier League,2025-2026,18,17,82,40,4,4,32,523,57,6,78.0,105,55,54.0,159,15,5,17,12,65,39.0
+Bruno Fernandes,Manchester United,AM,AM,31,2550,Premier League,2025-2026,10,9,82,28,9,12,96,1360,215,24,76.5,88,34,49.0,108,51,26,40,23,147,38.0
+Heung-min Son,Tottenham Hotspur,W,W,33,2320,Premier League,2025-2026,14,12,72,36,8,7,57,696,93,10,79.0,126,49,51.0,150,23,10,23,10,82,31.0
+Kaoru Mitoma,Brighton,W,W,28,2180,Premier League,2025-2026,8,8,51,19,6,7,48,642,78,7,78.5,191,82,61.0,157,34,17,27,10,102,33.0
+Bruno Guimaraes,Newcastle United,CM,CM,28,2520,Premier League,2025-2026,5,4,42,14,7,6,50,1638,193,13,86.4,101,50,66.0,64,81,39,42,39,204,52.0
+Pedro Porro,Tottenham Hotspur,FB,FB,26,2400,Premier League,2025-2026,3,3,48,16,7,8,61,1387,165,9,77.5,109,45,54.0,64,77,43,45,64,157,47.0
+Alexis Mac Allister,Liverpool,CM,CM,27,2390,Premier League,2025-2026,4,4,42,13,6,6,50,1700,173,11,87.8,72,35,63.0,53,69,40,37,35,189,49.0
+Josko Gvardiol,Manchester City,FB,FB,24,2340,Premier League,2025-2026,4,3,34,10,4,4,36,1924,177,6,88.5,114,39,65.0,73,60,42,42,65,156,59.0
+Ollie Watkins,Aston Villa,FW,FW,30,2490,Premier League,2025-2026,16,15,86,39,9,8,42,484,58,6,73.0,100,39,49.0,172,19,8,22,17,69,41.0
+Eberechi Eze,Crystal Palace,AM,AM,27,2290,Premier League,2025-2026,10,9,79,31,7,8,64,916,122,13,82.0,142,79,59.0,114,36,15,25,13,117,34.0
+Noah Mendy,Arsenal,FW,FW,32,1480,Premier League,2025-2026,9,12,32,19,0,2,21,204,31,3,74.1,33,13,43.8,98,4,4,11,12,35,35.7
+Liam Williams,Arsenal,FW,FW,31,591,Premier League,2025-2026,6,3,18,5,0,2,12,104,14,0,72.0,13,13,48.2,18,0,0,5,3,18,20.0
+Leo Gomez,Arsenal,W,W,30,687,Premier League,2025-2026,6,4,18,8,1,1,4,130,32,1,79.4,58,20,57.4,24,8,7,5,6,44,38.6
+Harry Brown,Arsenal,W,W,32,1835,Premier League,2025-2026,0,8,59,12,2,5,23,595,66,18,71.9,77,58,59.9,182,39,15,25,16,64,30.8
+Gabriel Silva,Arsenal,W,W,28,2013,Premier League,2025-2026,4,6,44,7,6,6,40,584,35,6,75.3,84,50,55.6,183,27,13,24,0,84,34.6
+Oliver Smith,Arsenal,AM,AM,18,2011,Premier League,2025-2026,13,6,26,26,9,9,37,1252,67,17,92.0,54,26,53.8,65,12,16,17,17,76,51.5
+Liam Davies,Arsenal,AM,AM,18,2152,Premier League,2025-2026,3,5,61,10,8,12,27,1048,143,20,74.8,47,48,55.4,94,35,11,31,16,87,54.7
+Marcus Evans,Arsenal,CM,CM,21,510,Premier League,2025-2026,1,1,6,2,0,1,12,323,15,4,85.7,19,2,57.9,12,11,9,12,3,42,51.9
+Marcus Traore,Arsenal,CM,CM,21,896,Premier League,2025-2026,1,1,16,3,2,0,17,524,54,2,82.3,19,0,55.9,28,19,15,9,5,51,37.7
+Leo Smith,Arsenal,CM,CM,26,595,Premier League,2025-2026,0,0,5,3,1,1,25,389,51,3,87.9,16,11,51.8,10,12,8,17,2,47,31.9
+Mason Mendy,Arsenal,DM,DM,27,1187,Premier League,2025-2026,1,0,16,2,2,1,10,553,52,3,82.8,1,6,68.7,22,28,11,21,25,110,74.2
+Oliver Johnson,Arsenal,DM,DM,29,503,Premier League,2025-2026,0,1,3,1,1,0,5,82,20,1,83.0,17,1,58.5,5,22,5,13,10,33,59.2
+Marcus Taylor,Arsenal,FB,FB,34,1245,Premier League,2025-2026,1,1,14,7,2,2,23,837,78,5,77.0,29,13,43.6,22,26,28,12,48,56,33.6
+Noah Williams,Arsenal,FB,FB,30,762,Premier League,2025-2026,0,0,4,2,2,3,2,556,48,1,77.5,39,12,41.2,15,25,15,10,10,41,78.5
+David Traore,Arsenal,FB,FB,34,1985,Premier League,2025-2026,1,1,32,8,0,3,47,768,134,7,76.9,70,0,70.9,28,61,38,48,41,120,51.6
+Oliver Brown,Arsenal,FB,FB,23,2736,Premier League,2025-2026,3,3,24,5,6,6,58,1903,105,0,78.4,57,57,48.5,0,55,20,70,78,182,51.4
+Noah Smith,Arsenal,CB,CB,20,2346,Premier League,2025-2026,0,0,6,4,0,2,0,1730,85,3,87.8,35,7,62.4,9,64,46,53,85,136,56.1
+George Davies,Arsenal,CB,CB,22,390,Premier League,2025-2026,0,0,0,1,0,0,1,354,5,0,93.1,4,0,66.9,6,6,10,9,27,25,60.1
+Oliver Brown T,Arsenal,CB,CB,23,1810,Premier League,2025-2026,2,1,6,6,0,0,3,903,80,1,77.3,20,5,76.9,10,60,46,34,123,123,65.9
+Jack Jones,Arsenal,CB,CB,19,1708,Premier League,2025-2026,1,2,9,3,0,0,11,1361,75,1,92.3,19,0,67.9,16,43,17,35,83,79,67.9
+Harry Johnson,Arsenal,FW,FW,22,1839,Premier League,2025-2026,6,8,31,23,3,0,21,373,46,8,78.3,36,13,50.8,90,3,11,12,4,9,52.2
+Alex Fernandez,Arsenal,FW,FW,28,2124,Premier League,2025-2026,5,6,31,32,2,4,11,204,47,3,63.4,97,7,70.7,100,15,11,27,24,23,28.4
+Dan Taylor,Aston Villa,FW,FW,30,2339,Premier League,2025-2026,4,15,58,25,2,2,29,338,53,5,72.8,37,20,52.6,169,5,6,24,0,68,34.0
+George Traore,Aston Villa,FW,FW,18,881,Premier League,2025-2026,6,4,25,4,2,0,12,340,3,2,72.0,17,15,56.1,69,3,6,2,1,23,43.1
+Gabriel Johnson,Aston Villa,W,W,20,1669,Premier League,2025-2026,7,7,54,21,3,6,42,328,56,9,85.5,124,81,48.4,97,28,0,32,0,91,40.9
+Leo Davies,Aston Villa,W,W,24,2320,Premier League,2025-2026,0,1,44,33,10,12,46,893,121,6,78.9,165,36,66.8,122,29,6,20,0,100,59.1
+Leo Brown,Aston Villa,W,W,32,2721,Premier League,2025-2026,14,14,103,39,0,9,32,722,109,16,72.5,31,79,75.8,134,34,31,40,17,130,36.5
+Thomas Traore,Aston Villa,AM,AM,31,1780,Premier League,2025-2026,2,4,33,13,4,5,63,622,83,2,88.1,53,42,56.8,108,24,7,11,0,93,43.8
+Gabriel Traore,Aston Villa,AM,AM,24,1553,Premier League,2025-2026,6,4,48,4,2,7,30,696,95,11,77.6,69,17,58.4,59,24,28,13,18,23,15.2
+Lucas Traore,Aston Villa,CM,CM,21,2270,Premier League,2025-2026,1,2,30,6,6,4,52,1681,53,4,82.2,142,33,64.5,3,55,43,46,38,157,48.6
+Carlos Garcia,Aston Villa,CM,CM,33,801,Premier League,2025-2026,0,1,13,2,2,2,21,565,55,4,89.5,20,9,57.2,12,25,8,18,9,61,49.7
+Carlos Lopez,Aston Villa,CM,CM,34,870,Premier League,2025-2026,0,3,16,3,1,0,15,314,65,7,88.2,22,15,71.0,31,14,14,13,15,65,24.3
+Jack Garcia,Aston Villa,DM,DM,18,1042,Premier League,2025-2026,0,1,2,1,2,0,13,410,99,2,88.4,21,12,49.8,9,25,9,27,18,90,56.6
+Mateo Davies,Aston Villa,DM,DM,27,374,Premier League,2025-2026,0,0,2,1,1,1,1,207,20,1,90.5,8,1,65.0,5,13,10,9,9,30,40.1
+Alex Evans,Aston Villa,FB,FB,30,1911,Premier League,2025-2026,2,1,19,4,6,3,24,1226,59,6,75.3,103,24,56.2,39,18,23,43,61,118,32.5
+Harry King,Aston Villa,FB,FB,19,600,Premier League,2025-2026,0,0,8,1,2,3,8,287,47,3,77.6,18,7,42.9,5,10,7,10,16,47,36.0
+Gabriel Brown,Aston Villa,FB,FB,22,1288,Premier League,2025-2026,1,1,11,5,2,3,30,635,83,2,78.1,44,24,65.7,23,16,25,39,33,45,47.7
+Harry Johnson M,Aston Villa,FB,FB,23,1130,Premier League,2025-2026,1,1,1,5,4,1,15,642,68,4,89.0,37,9,42.6,11,27,29,16,30,65,57.9
+Ben Johnson,Aston Villa,CB,CB,25,2239,Premier League,2025-2026,2,1,14,8,0,1,6,1349,46,1,86.3,40,18,67.1,20,40,30,60,135,80,61.7
+David Johnson,Aston Villa,CB,CB,33,1699,Premier League,2025-2026,0,2,8,1,0,1,8,1232,50,3,92.9,13,7,88.2,8,16,43,49,73,101,54.2
+George Lopez,Aston Villa,CB,CB,20,388,Premier League,2025-2026,0,0,3,0,0,0,2,265,13,1,85.6,2,3,76.6,4,7,8,13,35,15,60.6
+Leo Rodriguez,Aston Villa,CB,CB,31,2385,Premier League,2025-2026,1,2,11,8,2,1,0,1324,76,0,93.5,5,26,87.6,14,49,41,65,167,154,67.8
+Ben Evans,Aston Villa,FW,FW,34,2045,Premier League,2025-2026,10,9,51,14,4,2,20,556,54,1,75.8,60,48,58.8,55,17,9,20,7,94,49.8
+Lucas Johnson,Aston Villa,FW,FW,26,1223,Premier League,2025-2026,12,11,32,28,3,5,12,216,0,4,75.9,25,14,31.9,107,5,9,9,2,25,25.1
+Alex Smith,Bournemouth,FW,FW,24,1705,Premier League,2025-2026,13,8,77,30,3,6,30,676,27,4,81.8,12,36,49.4,71,2,2,0,5,51,36.3
+Arthur Silva,Bournemouth,FW,FW,31,2731,Premier League,2025-2026,23,0,95,35,2,4,21,827,104,3,75.4,28,53,55.5,149,15,6,7,26,48,32.9
+Arthur Johnson,Bournemouth,W,W,31,2343,Premier League,2025-2026,17,6,56,12,8,7,33,457,136,1,79.5,34,83,60.7,176,27,25,53,11,86,35.5
+Harry Jones,Bournemouth,W,W,22,1432,Premier League,2025-2026,3,5,11,20,4,6,0,711,51,9,71.8,100,20,46.4,131,16,9,23,10,63,37.6
+Liam Diallo,Bournemouth,W,W,34,652,Premier League,2025-2026,2,2,18,8,1,2,8,297,17,3,82.0,34,20,64.9,42,9,0,5,6,32,41.2
+Ben Santos,Bournemouth,AM,AM,28,1717,Premier League,2025-2026,6,7,20,22,1,9,77,968,31,18,92.2,64,30,43.5,77,37,18,47,12,49,37.7
+George Rodriguez,Bournemouth,AM,AM,28,1293,Premier League,2025-2026,7,4,31,19,3,7,36,658,48,7,74.0,53,27,44.1,93,21,10,22,5,67,28.8
+David Williams,Bournemouth,CM,CM,28,1636,Premier League,2025-2026,4,1,29,14,3,3,17,1250,103,3,85.3,60,23,67.6,39,35,25,30,10,142,45.0
+Leo Gomez B,Bournemouth,CM,CM,34,1208,Premier League,2025-2026,1,3,15,9,1,3,13,1043,51,5,87.9,44,15,57.0,25,27,23,34,12,57,47.1
+Jack Johnson,Bournemouth,CM,CM,24,1927,Premier League,2025-2026,7,6,22,11,7,3,30,964,87,4,79.5,61,16,59.9,9,50,35,9,30,170,35.9
+Gabriel Taylor,Bournemouth,DM,DM,23,1582,Premier League,2025-2026,1,1,20,0,3,3,14,762,127,3,87.9,35,8,59.7,22,58,40,21,29,119,58.8
+Marcus Silva,Bournemouth,DM,DM,23,1873,Premier League,2025-2026,2,0,9,2,2,2,25,1002,55,11,83.5,49,17,64.0,17,50,43,33,54,173,60.4
+Dan Fernandez,Bournemouth,FB,FB,26,748,Premier League,2025-2026,0,0,2,3,1,2,11,417,71,1,77.1,32,0,55.6,10,13,14,13,6,37,17.1
+Lucas Garcia,Bournemouth,FB,FB,19,1433,Premier League,2025-2026,1,0,1,0,3,3,8,877,111,2,72.2,36,30,59.9,12,52,33,18,26,71,40.9
+George Jones,Bournemouth,FB,FB,24,1858,Premier League,2025-2026,1,2,10,1,6,3,40,1164,100,4,78.2,66,39,47.8,33,29,19,31,13,158,34.1
+Dan Gomez,Bournemouth,FB,FB,25,2118,Premier League,2025-2026,1,3,19,6,3,5,35,1214,109,8,76.8,75,52,46.5,0,58,30,47,49,105,45.2
+Leo Garcia,Bournemouth,CB,CB,18,757,Premier League,2025-2026,0,0,5,1,0,1,5,228,20,1,92.8,10,2,75.1,5,14,13,19,34,53,63.4
+Jack Santos,Bournemouth,CB,CB,33,1661,Premier League,2025-2026,0,0,11,1,1,1,0,782,55,2,88.9,22,19,55.9,21,28,35,59,101,110,76.8
+Gabriel Garcia,Bournemouth,CB,CB,28,1718,Premier League,2025-2026,1,1,14,4,1,0,8,1301,128,3,82.9,24,18,74.2,16,41,25,42,79,105,70.6
+James Williams,Bournemouth,CB,CB,25,1856,Premier League,2025-2026,0,2,8,4,0,1,12,1048,40,2,94.6,4,1,63.5,8,27,11,46,103,71,75.7
+Leo Wilson,Bournemouth,FW,FW,27,2435,Premier League,2025-2026,10,11,41,10,4,7,22,536,67,1,73.9,46,56,60.6,95,17,10,26,11,88,31.1
+Mason Smith,Bournemouth,FW,FW,34,825,Premier League,2025-2026,4,5,30,20,0,1,11,228,14,3,64.3,9,12,30.9,29,3,3,1,4,28,39.7
+Oliver Mendy,Brentford,FW,FW,34,1053,Premier League,2025-2026,2,5,35,12,0,2,18,265,25,0,76.0,21,15,46.2,42,3,3,7,2,17,38.4
+David Jones,Brentford,FW,FW,29,1190,Premier League,2025-2026,11,5,37,17,0,0,8,258,25,4,74.5,31,10,53.8,48,2,4,4,15,30,46.2
+Thomas Smith,Brentford,W,W,21,1244,Premier League,2025-2026,6,3,43,27,2,4,29,587,46,3,70.7,70,26,70.1,110,8,4,16,13,53,27.5
+Mason Wilson,Brentford,W,W,21,2251,Premier League,2025-2026,7,9,41,18,3,7,56,774,137,4,77.6,72,35,63.4,99,17,0,19,11,58,31.4
+Gabriel King,Brentford,W,W,25,825,Premier League,2025-2026,1,4,29,3,0,3,9,272,13,6,89.7,51,21,49.1,57,13,7,8,6,29,23.4
+David Taylor,Brentford,AM,AM,21,1273,Premier League,2025-2026,3,3,38,16,9,6,38,622,69,10,79.5,57,38,44.9,73,28,9,5,6,86,35.8
+Marcus Smith,Brentford,AM,AM,20,2065,Premier League,2025-2026,6,7,53,10,13,2,70,1106,106,18,79.4,65,45,44.9,75,23,13,32,10,98,31.0
+Dan Fernandez W,Brentford,CM,CM,21,809,Premier League,2025-2026,2,2,9,5,2,0,6,406,32,2,80.4,24,18,57.6,14,21,8,16,13,56,49.5
+Thomas Traore X,Brentford,CM,CM,32,747,Premier League,2025-2026,1,1,10,3,1,1,17,377,57,5,83.4,30,13,76.0,11,22,3,10,11,68,35.7
+Oliver Johnson Y,Brentford,CM,CM,29,2394,Premier League,2025-2026,5,2,35,8,5,4,54,1259,114,6,83.4,72,42,62.6,77,41,37,47,23,157,30.5
+Thomas Smith Z,Brentford,DM,DM,25,1460,Premier League,2025-2026,2,1,18,4,1,0,5,384,70,9,82.8,0,19,80.9,15,48,26,15,13,112,50.4
+Thomas Evans,Brentford,DM,DM,22,1166,Premier League,2025-2026,1,0,12,3,0,1,17,705,54,0,80.6,31,9,68.2,20,45,19,24,18,81,58.1
+James Williams B,Brentford,FB,FB,22,2124,Premier League,2025-2026,3,1,21,4,7,7,50,683,123,7,81.7,95,32,48.3,3,41,65,30,15,143,54.6
+Mateo Diallo,Brentford,FB,FB,21,724,Premier League,2025-2026,1,1,6,0,2,1,1,519,45,2,78.4,40,28,59.0,5,17,13,3,20,46,59.3
+Mason Jones,Brentford,FB,FB,22,1765,Premier League,2025-2026,0,1,14,5,1,4,22,938,112,4,78.0,60,24,51.7,25,65,33,27,54,94,57.7
+Mason Santos,Brentford,FB,FB,32,1873,Premier League,2025-2026,1,4,0,3,2,3,42,1123,128,4,74.1,36,38,56.5,52,50,17,26,55,126,54.6
+Liam Davies F,Brentford,CB,CB,22,1348,Premier League,2025-2026,0,1,19,0,1,1,8,889,59,1,90.4,14,9,64.3,13,25,32,28,30,105,56.8
+Alex Garcia,Brentford,CB,CB,34,2064,Premier League,2025-2026,0,1,18,8,0,2,9,1382,80,0,92.9,15,2,76.9,23,40,49,63,145,112,72.1
+Harry Rodriguez,Brentford,CB,CB,20,368,Premier League,2025-2026,0,0,1,1,0,0,2,276,13,0,86.1,8,2,49.4,5,11,5,9,16,26,54.7
+David Rodriguez,Brentford,CB,CB,19,2692,Premier League,2025-2026,1,0,8,3,0,1,7,1807,155,2,84.7,21,17,74.8,26,70,45,94,169,74,78.4
+Carlos Mendy,Brentford,FW,FW,32,1395,Premier League,2025-2026,4,8,47,22,1,2,10,366,16,3,76.8,27,24,61.0,91,12,0,9,7,21,44.5
+Liam Rodriguez,Brentford,FW,FW,30,1456,Premier League,2025-2026,11,7,56,19,6,5,7,342,17,4,74.3,20,28,47.0,80,6,4,13,6,0,42.2
+Alex Gomez,Brighton,FW,FW,31,576,Premier League,2025-2026,2,3,15,12,1,1,9,71,18,1,77.4,8,1,53.2,40,1,0,7,0,22,31.2
+George Garcia,Brighton,FW,FW,20,1898,Premier League,2025-2026,12,3,61,9,1,3,0,478,0,4,74.1,66,23,65.2,125,17,2,16,18,42,44.3
+Lucas Wilson,Brighton,W,W,18,2452,Premier League,2025-2026,0,10,84,10,9,9,6,559,79,9,73.3,103,115,51.0,97,29,18,31,12,84,27.4
+Arthur King,Brighton,W,W,30,2664,Premier League,2025-2026,6,10,77,40,9,7,62,900,168,11,75.1,178,78,37.9,141,31,10,45,8,127,32.5
+Carlos Brown,Brighton,W,W,23,2607,Premier League,2025-2026,2,10,120,8,6,11,58,970,9,14,73.2,167,69,72.5,168,30,1,33,22,108,28.9
+Liam Jones,Brighton,AM,AM,21,969,Premier League,2025-2026,2,3,22,7,4,6,24,530,34,3,83.4,63,20,50.5,39,7,10,17,5,42,38.7
+Oliver Johnson R,Brighton,AM,AM,29,2026,Premier League,2025-2026,5,8,0,32,4,8,23,850,174,1,86.6,77,45,58.3,95,20,13,14,17,147,17.8
+Ben Traore,Brighton,CM,CM,30,1049,Premier League,2025-2026,1,2,14,4,3,3,21,622,87,2,81.4,42,3,58.7,18,13,9,16,20,62,60.1
+George Johnson,Brighton,CM,CM,19,628,Premier League,2025-2026,1,1,15,6,1,1,16,292,34,1,84.9,18,6,50.3,18,21,14,8,11,46,42.3
+Ben Fernandez,Brighton,CM,CM,33,2259,Premier League,2025-2026,4,0,27,11,8,3,22,1756,124,0,85.6,61,65,61.8,42,36,34,53,34,126,53.4
+Mason Evans,Brighton,DM,DM,19,453,Premier League,2025-2026,0,0,4,1,1,0,6,382,39,0,87.3,1,0,63.2,3,15,11,12,9,61,57.8
+Leo Traore,Brighton,DM,DM,18,1826,Premier League,2025-2026,3,2,20,6,1,0,27,1081,77,6,86.4,52,21,67.5,2,74,40,33,39,92,58.7
+Mateo Brown,Brighton,FB,FB,29,1774,Premier League,2025-2026,1,2,16,7,1,1,25,813,81,5,77.7,31,18,58.1,40,52,32,28,50,101,47.1
+Thomas Brown,Brighton,FB,FB,26,2318,Premier League,2025-2026,0,0,1,2,2,0,34,1505,77,5,81.8,80,37,56.8,22,84,52,54,78,85,55.3
+George Taylor,Brighton,FB,FB,21,1438,Premier League,2025-2026,1,0,3,4,3,5,18,742,45,7,80.3,66,29,68.1,13,43,22,41,24,106,49.5
+George Evans,Brighton,FB,FB,34,392,Premier League,2025-2026,0,0,4,1,1,1,5,172,17,0,76.3,14,3,61.1,12,8,7,8,11,23,53.4
+Carlos Johnson,Brighton,CB,CB,27,1219,Premier League,2025-2026,1,1,4,2,1,0,7,1234,33,0,90.6,23,4,82.5,2,28,18,40,99,62,59.6
+Mateo Santos,Brighton,CB,CB,21,605,Premier League,2025-2026,1,0,0,2,0,0,2,530,24,1,91.4,14,2,86.7,0,14,8,11,36,42,68.9
+Carlos King,Brighton,CB,CB,34,663,Premier League,2025-2026,0,0,4,3,0,0,4,477,30,1,96.7,3,4,58.7,7,9,10,13,43,49,54.0
+James Lopez,Brighton,CB,CB,28,848,Premier League,2025-2026,0,0,1,1,0,1,4,365,26,1,96.8,1,0,86.7,8,12,18,3,42,56,71.4
+Marcus Rodriguez,Brighton,FW,FW,30,1806,Premier League,2025-2026,12,10,63,24,1,3,30,495,46,8,76.1,71,33,42.8,140,4,5,18,14,57,54.8
+Thomas Traore G,Brighton,FW,FW,29,1572,Premier League,2025-2026,7,4,46,14,3,5,15,310,32,6,62.8,31,21,57.0,79,0,5,9,1,30,39.8
+George Mendy,Chelsea,FW,FW,28,2493,Premier League,2025-2026,11,25,84,54,8,6,41,602,21,6,79.4,120,18,50.3,161,13,7,21,16,93,51.4
+Oliver King,Chelsea,FW,FW,29,2055,Premier League,2025-2026,12,18,50,43,0,5,11,540,59,12,81.1,53,10,50.7,123,22,0,31,13,35,50.8
+David Fernandez,Chelsea,W,W,30,1272,Premier League,2025-2026,0,6,44,16,5,5,16,558,40,5,75.3,86,26,52.6,36,24,10,14,5,64,26.9
+Marcus Mendy,Chelsea,W,W,29,648,Premier League,2025-2026,2,5,10,3,0,2,19,142,35,3,71.5,15,5,46.0,32,13,5,6,4,40,52.7
+Mateo Fernandez,Chelsea,W,W,19,1688,Premier League,2025-2026,0,2,60,17,6,5,42,526,53,11,78.0,120,48,47.6,144,24,7,30,2,117,32.2
+Leo Mendy,Chelsea,AM,AM,23,439,Premier League,2025-2026,0,1,9,1,2,2,15,120,37,2,80.3,25,9,55.7,23,7,3,6,3,17,46.0
+Thomas Johnson,Chelsea,AM,AM,22,1607,Premier League,2025-2026,6,8,43,15,4,6,31,404,151,5,79.4,84,49,55.1,34,21,8,21,17,26,31.9
+Leo King,Chelsea,CM,CM,24,986,Premier League,2025-2026,1,2,22,4,0,1,23,585,62,4,84.8,49,8,51.1,6,19,7,17,13,51,53.9
+Alex Wilson,Chelsea,CM,CM,30,389,Premier League,2025-2026,0,0,9,2,0,0,5,278,23,2,82.6,3,4,60.8,9,5,4,12,3,31,27.0
+Lucas Jones,Chelsea,CM,CM,20,2016,Premier League,2025-2026,4,4,24,11,3,4,40,1071,92,4,90.4,66,16,61.2,50,55,16,24,19,128,53.4
+George Santos,Chelsea,DM,DM,30,625,Premier League,2025-2026,0,0,7,0,0,0,7,473,44,2,93.5,15,11,63.0,5,22,12,19,18,60,56.2
+Ben Mendy,Chelsea,DM,DM,32,1574,Premier League,2025-2026,1,2,13,4,0,3,13,1208,112,2,83.5,51,13,63.8,18,30,36,32,24,97,60.5
+Leo Jones,Chelsea,FB,FB,23,842,Premier League,2025-2026,1,1,4,3,1,2,14,475,44,2,87.1,42,18,50.9,7,27,17,21,16,46,29.6
+Liam Gomez,Chelsea,FB,FB,25,1317,Premier League,2025-2026,1,1,14,2,2,4,12,561,44,5,79.5,22,28,50.0,12,30,31,19,39,89,50.4
+Liam Mendy,Chelsea,FB,FB,29,1844,Premier League,2025-2026,0,0,13,1,3,4,41,1049,88,5,75.4,65,31,56.2,38,36,40,49,19,77,46.4
+Harry Davies,Chelsea,FB,FB,20,2535,Premier League,2025-2026,1,2,25,6,1,2,38,1398,109,7,89.4,26,48,54.4,52,53,37,44,55,95,43.7
+Alex Smith X,Chelsea,CB,CB,18,1110,Premier League,2025-2026,0,1,8,2,0,0,7,626,25,0,89.3,7,9,67.4,6,13,23,27,42,35,67.3
+Lucas Brown,Chelsea,CB,CB,34,756,Premier League,2025-2026,0,0,4,0,0,0,1,494,35,0,90.1,4,3,74.1,6,12,14,20,14,58,61.3
+Leo Lopez,Chelsea,CB,CB,24,1423,Premier League,2025-2026,0,0,16,1,0,1,1,829,62,1,89.2,13,0,71.2,22,27,27,37,43,119,65.6
+Oliver Wilson,Chelsea,CB,CB,19,520,Premier League,2025-2026,1,0,4,1,0,0,4,208,17,0,90.8,6,3,69.5,6,11,12,7,36,27,58.7
+Lucas Johnson B,Chelsea,FW,FW,18,2547,Premier League,2025-2026,8,18,121,49,2,6,13,607,62,0,68.2,61,26,32.9,178,16,5,13,20,100,36.2
+Mateo Santos C,Chelsea,FW,FW,24,1821,Premier League,2025-2026,6,6,39,20,0,2,33,464,17,7,64.2,110,38,39.4,127,2,4,13,3,37,35.2
+Mason Williams,Crystal Palace,FW,FW,25,2210,Premier League,2025-2026,12,9,46,18,7,1,31,519,42,11,76.5,116,17,38.7,161,10,11,20,2,20,41.1
+George Santos E,Crystal Palace,FW,FW,19,1179,Premier League,2025-2026,6,3,24,21,2,2,17,161,25,3,72.1,20,15,44.5,60,2,3,7,1,29,61.3
+Ben Taylor,Crystal Palace,W,W,27,479,Premier League,2025-2026,3,3,22,5,1,1,7,132,20,1,68.7,29,8,22.8,31,3,4,7,3,35,32.6
+Liam Garcia,Crystal Palace,W,W,28,361,Premier League,2025-2026,1,1,8,4,1,1,8,152,20,2,70.7,18,8,46.1,22,1,4,6,3,15,46.3
+Jack Smith,Crystal Palace,W,W,21,2387,Premier League,2025-2026,13,3,65,34,6,16,17,967,84,13,79.2,103,70,35.3,156,33,18,40,16,105,25.2
+George Davies I,Crystal Palace,AM,AM,31,2364,Premier League,2025-2026,4,7,49,20,0,11,56,749,188,21,79.4,57,46,54.0,129,28,29,26,5,83,35.4
+Mateo Wilson,Crystal Palace,AM,AM,32,915,Premier League,2025-2026,4,0,29,9,1,2,38,331,35,10,82.7,25,18,44.8,52,19,9,14,11,46,24.2
+Dan Rodriguez,Crystal Palace,CM,CM,30,1416,Premier League,2025-2026,2,2,19,14,2,1,24,1041,152,7,79.3,78,19,51.3,13,42,21,25,29,80,61.7
+Mateo Wilson L,Crystal Palace,CM,CM,21,2294,Premier League,2025-2026,5,5,39,9,8,5,30,1592,152,9,85.9,85,16,46.4,79,58,40,13,44,139,39.9
+Carlos Fernandez,Crystal Palace,CM,CM,20,1147,Premier League,2025-2026,1,1,17,5,3,4,30,316,54,0,79.6,27,18,53.8,17,28,4,12,12,75,48.8
+George Garcia N,Crystal Palace,DM,DM,21,2468,Premier League,2025-2026,3,2,2,9,3,5,26,1341,134,9,84.9,37,20,52.8,12,78,69,54,48,166,64.9
+Liam Wilson,Crystal Palace,DM,DM,18,791,Premier League,2025-2026,1,1,1,2,2,1,6,337,62,2,82.1,23,1,60.2,6,35,14,15,7,56,47.6
+Jack Taylor,Crystal Palace,FB,FB,29,732,Premier League,2025-2026,1,1,1,4,1,2,5,436,53,4,86.3,32,2,56.2,8,19,6,11,15,37,40.6
+Alex Jones,Crystal Palace,FB,FB,30,1253,Premier League,2025-2026,1,0,6,2,2,2,16,699,68,1,76.4,56,23,55.5,31,12,16,13,56,84,45.2
+Mason Fernandez,Crystal Palace,FB,FB,33,769,Premier League,2025-2026,1,1,5,0,1,2,6,577,8,1,80.5,33,6,65.2,3,15,15,17,9,72,37.0
+Mateo Traore,Crystal Palace,FB,FB,20,1348,Premier League,2025-2026,0,1,8,2,3,0,6,621,98,2,87.2,71,22,58.1,26,35,18,21,20,38,57.0
+Marcus Gomez,Crystal Palace,CB,CB,20,793,Premier League,2025-2026,1,1,2,1,0,0,5,398,40,2,88.9,14,5,55.8,4,11,12,21,32,48,55.7
+David Davies,Crystal Palace,CB,CB,33,1962,Premier League,2025-2026,2,0,7,1,1,0,0,1203,86,1,87.4,16,9,59.1,12,45,21,41,44,126,56.2
+Marcus Taylor V,Crystal Palace,CB,CB,33,1872,Premier League,2025-2026,0,0,8,2,0,1,15,808,53,2,88.1,31,14,75.5,20,53,17,58,82,134,55.8
+Alex Johnson,Crystal Palace,CB,CB,22,2644,Premier League,2025-2026,0,3,20,5,1,1,7,1125,147,0,85.8,77,13,69.8,28,27,27,48,95,159,67.9
+Arthur Jones,Crystal Palace,FW,FW,20,943,Premier League,2025-2026,3,3,18,21,2,1,14,222,29,1,76.0,15,10,45.6,61,6,3,5,5,17,77.0
+David Santos,Crystal Palace,FW,FW,24,867,Premier League,2025-2026,2,5,28,6,3,4,11,113,18,3,70.9,23,13,57.0,68,7,1,8,2,28,55.8
+George Johnson Z,Everton,FW,FW,20,2634,Premier League,2025-2026,14,13,113,34,1,4,35,743,69,2,86.4,82,55,43.5,192,22,11,30,19,57,35.1
+Liam Fernandez,Everton,FW,FW,32,1955,Premier League,2025-2026,11,14,53,34,1,6,28,379,42,0,74.5,51,7,38.3,114,7,0,22,8,8,67.6
+Harry Brown B,Everton,W,W,33,2703,Premier League,2025-2026,4,18,29,24,7,13,73,439,102,11,75.9,190,26,48.3,170,43,16,30,14,139,34.3
+Liam Garcia C,Everton,W,W,18,2681,Premier League,2025-2026,3,13,49,36,3,10,24,812,69,16,82.6,166,77,58.3,203,33,10,40,0,143,26.9
+George Fernandez,Everton,W,W,34,401,Premier League,2025-2026,1,2,14,4,1,1,8,85,13,0,72.5,7,12,67.2,18,7,4,3,1,22,33.1
+Marcus Silva E,Everton,AM,AM,25,414,Premier League,2025-2026,0,1,13,4,1,2,11,291,15,1,84.1,26,7,44.9,28,4,4,8,2,17,30.5
+David Wilson,Everton,AM,AM,32,1417,Premier League,2025-2026,6,5,35,10,7,5,68,687,20,0,84.1,88,15,69.8,93,22,14,25,18,84,37.9
+Jack Williams,Everton,CM,CM,34,2471,Premier League,2025-2026,5,4,39,15,5,7,82,1692,205,8,78.8,7,24,37.4,62,50,15,40,23,188,55.1
+Marcus Garcia,Everton,CM,CM,23,390,Premier League,2025-2026,0,0,3,2,1,1,8,183,33,1,92.0,24,4,54.6,7,11,8,5,6,26,54.2
+Mateo Silva,Everton,CM,CM,26,504,Premier League,2025-2026,1,0,7,3,1,0,5,287,38,0,84.3,17,10,63.5,13,9,1,7,10,46,55.1
+Marcus Smith J,Everton,DM,DM,34,1491,Premier League,2025-2026,1,3,8,7,0,2,17,1370,69,1,87.5,50,7,41.3,14,57,20,37,18,119,61.8
+Marcus Taylor K,Everton,DM,DM,31,1248,Premier League,2025-2026,0,2,11,2,2,2,12,708,153,4,92.3,12,8,78.9,21,43,22,23,18,77,63.3
+Harry Brown L,Everton,FB,FB,22,1382,Premier League,2025-2026,0,1,15,0,3,4,27,723,83,3,72.4,53,16,48.7,54,47,13,26,52,52,46.8
+Jack Jones M,Everton,FB,FB,25,986,Premier League,2025-2026,1,1,14,2,5,0,18,356,55,1,82.3,33,8,48.2,33,28,6,19,22,57,54.2
+James Jones,Everton,FB,FB,23,1619,Premier League,2025-2026,1,2,14,2,2,2,12,1112,73,1,73.1,0,32,62.1,44,38,22,22,34,118,45.7
+Jack Mendy,Everton,FB,FB,25,2267,Premier League,2025-2026,2,3,10,8,4,3,31,1648,69,4,84.1,39,56,63.0,43,47,17,47,111,135,27.7
+Arthur Traore,Everton,CB,CB,22,1211,Premier League,2025-2026,1,1,3,0,1,0,7,1196,33,0,90.2,27,2,68.3,17,12,23,21,63,85,65.8
+Thomas Rodriguez,Everton,CB,CB,22,1770,Premier League,2025-2026,0,2,11,1,1,0,3,1193,77,0,93.2,31,4,52.6,13,29,33,33,33,99,61.6
+Marcus Williams,Everton,CB,CB,25,2733,Premier League,2025-2026,1,3,0,5,2,2,8,1197,164,2,88.9,17,1,73.6,29,55,37,38,76,147,56.0
+Jack Williams S,Everton,CB,CB,22,922,Premier League,2025-2026,0,1,7,4,0,1,0,435,35,0,86.0,6,0,60.1,9,27,20,23,23,58,63.5
+Leo Rodriguez T,Everton,FW,FW,32,1541,Premier League,2025-2026,8,1,46,30,4,0,15,486,28,4,82.1,40,27,49.1,116,11,2,10,2,15,56.9
+Ben Santos U,Everton,FW,FW,31,411,Premier League,2025-2026,2,4,13,8,0,1,5,72,8,0,72.3,19,2,34.3,26,2,1,3,2,9,26.7
+Leo Jones V,Fulham,FW,FW,28,1948,Premier League,2025-2026,12,3,66,16,6,4,34,392,38,9,78.9,57,21,27.9,133,10,6,21,17,53,29.4
+David Jones W,Fulham,FW,FW,30,2452,Premier League,2025-2026,0,13,103,22,8,2,13,576,79,6,76.2,132,50,45.3,126,23,9,22,8,58,40.2
+Carlos Brown X,Fulham,W,W,27,1430,Premier League,2025-2026,2,6,41,16,3,4,45,453,80,2,79.9,62,28,48.3,63,14,14,18,9,52,42.6
+Liam Silva,Fulham,W,W,25,1852,Premier League,2025-2026,7,4,71,18,2,8,33,701,62,7,79.5,118,4,41.9,133,21,7,11,4,32,33.0
+Liam King,Fulham,W,W,23,1257,Premier League,2025-2026,8,5,57,15,2,6,24,124,47,4,85.0,50,28,63.4,77,14,4,17,7,41,26.8
+Jack Williams A,Fulham,AM,AM,27,1902,Premier League,2025-2026,3,8,30,10,6,2,15,1117,79,4,76.9,55,31,44.3,91,34,5,20,9,91,46.8
+Mateo Johnson,Fulham,AM,AM,20,791,Premier League,2025-2026,2,1,3,12,1,0,22,219,36,7,89.9,38,11,52.6,9,9,5,11,10,19,31.9
+Lucas Fernandez,Fulham,CM,CM,23,1539,Premier League,2025-2026,0,3,28,8,1,3,38,767,160,3,85.1,35,23,44.1,22,23,22,32,26,49,68.4
+Oliver Wilson D,Fulham,CM,CM,30,2232,Premier League,2025-2026,5,0,29,3,7,3,36,1432,260,9,83.9,36,51,56.5,82,71,24,17,33,132,48.4
+Harry Wilson,Fulham,CM,CM,18,630,Premier League,2025-2026,1,1,14,3,1,1,8,387,44,4,84.1,25,8,63.1,11,18,11,6,12,42,43.3
+Alex Gomez F,Fulham,DM,DM,18,1794,Premier League,2025-2026,2,0,25,4,2,4,9,1256,98,6,95.7,24,6,55.5,14,55,37,54,59,189,77.6
+Arthur Gomez,Fulham,DM,DM,21,898,Premier League,2025-2026,1,1,5,2,0,1,13,752,25,3,93.6,29,10,53.5,11,20,16,20,12,56,59.2
+Harry Jones H,Fulham,FB,FB,23,914,Premier League,2025-2026,1,1,10,3,3,0,15,478,51,1,82.3,22,9,49.1,22,22,12,13,22,73,33.6
+Marcus Rodriguez I,Fulham,FB,FB,19,2152,Premier League,2025-2026,2,1,29,0,3,3,37,799,137,12,82.1,79,8,48.0,35,44,46,42,104,96,46.3
+Ben Garcia,Fulham,FB,FB,30,1745,Premier League,2025-2026,1,2,12,3,0,2,24,667,62,4,71.7,40,52,51.9,22,38,24,35,50,92,43.9
+Noah Fernandez,Fulham,FB,FB,29,2240,Premier League,2025-2026,3,0,19,8,4,3,69,1093,145,0,75.1,101,51,51.5,1,52,37,39,44,125,38.5
+James Mendy,Fulham,CB,CB,22,869,Premier League,2025-2026,1,0,3,1,1,0,1,530,18,2,87.5,17,4,58.2,7,20,15,25,57,64,60.3
+Oliver Wilson M,Fulham,CB,CB,23,1235,Premier League,2025-2026,0,1,7,4,0,1,3,974,52,3,84.3,5,13,60.7,6,17,30,16,62,71,72.3
+Alex Davies,Fulham,CB,CB,25,2423,Premier League,2025-2026,2,0,19,2,0,1,6,1786,93,2,87.8,12,5,67.0,39,66,34,52,110,152,66.1
+James Gomez,Fulham,CB,CB,18,1102,Premier League,2025-2026,1,1,7,2,1,1,8,471,42,0,88.7,13,7,68.5,12,25,33,21,39,71,57.6
+Thomas King,Fulham,FW,FW,26,428,Premier League,2025-2026,3,2,12,3,1,0,4,134,11,1,74.1,6,5,41.5,28,0,1,5,2,13,45.7
+Ben Taylor Q,Fulham,FW,FW,19,2563,Premier League,2025-2026,9,12,107,39,2,5,43,499,53,3,74.1,79,21,34.2,230,19,3,22,0,18,55.0
+James Wilson,Ipswich Town,FW,FW,31,2050,Premier League,2025-2026,10,13,29,28,4,2,29,392,47,6,76.7,85,30,40.2,96,4,5,25,7,58,33.0
+Harry Silva,Ipswich Town,FW,FW,22,2367,Premier League,2025-2026,13,5,90,38,5,4,34,727,41,6,68.6,38,30,56.0,131,11,4,14,13,26,57.4
+Liam Rodriguez T,Ipswich Town,W,W,21,563,Premier League,2025-2026,3,1,12,9,1,1,9,86,20,1,78.3,45,0,48.3,35,0,6,8,5,20,29.6
+Leo Diallo,Ipswich Town,W,W,26,1278,Premier League,2025-2026,4,5,36,16,8,4,26,359,53,3,79.5,37,30,58.6,78,12,6,22,2,35,24.7
+Thomas Jones,Ipswich Town,W,W,19,2022,Premier League,2025-2026,13,6,65,3,7,3,45,585,115,4,80.1,106,50,50.3,74,25,11,27,12,105,43.2
+Harry Davies W,Ipswich Town,AM,AM,27,2483,Premier League,2025-2026,3,9,67,6,8,7,49,1531,119,10,81.4,131,41,62.3,120,6,14,27,21,37,61.5
+Harry Evans,Ipswich Town,AM,AM,20,744,Premier League,2025-2026,3,5,22,9,2,2,17,279,35,2,80.6,12,14,52.7,31,9,15,14,2,40,29.9
+Mason Wilson Y,Ipswich Town,CM,CM,31,1531,Premier League,2025-2026,1,3,27,4,2,4,17,1131,116,6,86.8,39,14,54.6,38,38,17,30,19,89,50.5
+Arthur Diallo,Ipswich Town,CM,CM,31,2677,Premier League,2025-2026,5,5,23,17,5,0,39,1561,142,16,90.7,71,27,57.0,48,50,0,68,36,177,51.3
+Ben Gomez,Ipswich Town,CM,CM,28,1221,Premier League,2025-2026,2,4,20,7,4,3,16,632,84,1,84.4,54,0,70.3,38,24,20,19,25,103,34.0
+Jack Evans,Ipswich Town,DM,DM,32,1722,Premier League,2025-2026,3,2,6,6,3,1,21,1026,146,5,84.3,43,23,63.6,20,51,21,33,41,138,62.2
+Harry Fernandez,Ipswich Town,DM,DM,19,1675,Premier League,2025-2026,1,1,14,4,0,1,17,1438,47,9,87.5,15,5,64.2,2,42,31,44,47,119,53.1
+Alex Fernandez D,Ipswich Town,FB,FB,25,1318,Premier League,2025-2026,1,1,6,3,3,8,28,566,62,2,71.9,41,27,43.5,34,37,15,21,51,89,46.1
+Noah King,Ipswich Town,FB,FB,33,439,Premier League,2025-2026,0,0,7,1,1,1,5,224,12,3,74.4,9,5,66.6,7,7,10,9,13,30,69.9
+Ben Johnson F,Ipswich Town,FB,FB,32,771,Premier League,2025-2026,1,1,9,1,3,1,16,541,40,0,85.2,30,16,54.0,25,6,14,19,20,48,41.7
+Lucas Evans,Ipswich Town,FB,FB,21,1975,Premier League,2025-2026,1,1,10,4,3,5,26,1232,136,2,83.8,97,1,57.6,24,68,25,18,48,90,54.5
+Gabriel Jones,Ipswich Town,CB,CB,22,2618,Premier League,2025-2026,0,2,15,3,1,1,4,1676,151,3,91.7,29,16,55.9,15,48,28,41,144,165,70.5
+Liam Santos,Ipswich Town,CB,CB,29,2616,Premier League,2025-2026,0,2,25,6,2,1,13,1717,60,3,86.0,82,9,74.5,20,31,19,68,194,134,50.7
+James Lopez J,Ipswich Town,CB,CB,21,642,Premier League,2025-2026,0,1,4,0,0,0,2,387,30,0,86.4,2,6,75.1,6,7,14,19,38,39,69.1
+Gabriel Traore K,Ipswich Town,CB,CB,24,2626,Premier League,2025-2026,1,3,16,4,1,2,11,2622,67,3,87.6,17,12,69.4,54,47,30,60,47,157,64.1
+Liam Evans,Ipswich Town,FW,FW,31,1148,Premier League,2025-2026,4,6,27,8,2,0,11,153,29,6,67.5,4,13,45.2,76,5,2,10,9,8,37.6
+Liam Fernandez M,Ipswich Town,FW,FW,34,2538,Premier League,2025-2026,14,12,115,21,0,6,40,408,42,7,73.2,104,72,27.9,224,15,12,26,12,79,37.3
+David Brown,Leicester City,FW,FW,23,670,Premier League,2025-2026,4,3,17,4,2,1,7,93,33,0,71.9,22,11,54.6,68,5,0,5,4,29,25.2
+Thomas King O,Leicester City,FW,FW,19,620,Premier League,2025-2026,5,3,28,7,1,2,7,137,16,1,78.1,13,5,29.7,31,2,1,6,0,4,33.0
+Dan Williams,Leicester City,W,W,29,1139,Premier League,2025-2026,7,3,38,5,3,5,27,598,52,4,91.2,103,8,44.9,37,18,8,17,0,39,32.5
+Ben Smith,Leicester City,W,W,27,1019,Premier League,2025-2026,0,3,13,12,3,2,14,255,21,0,76.6,50,23,42.9,71,26,3,19,7,43,30.6
+Jack Rodriguez,Leicester City,W,W,28,2599,Premier League,2025-2026,4,7,82,27,7,4,51,1070,38,6,67.9,178,108,50.3,86,18,12,28,22,88,38.4
+George Gomez,Leicester City,AM,AM,21,795,Premier League,2025-2026,2,2,14,6,3,1,23,504,15,1,84.4,50,11,37.0,50,8,5,12,4,30,27.4
+Marcus Santos,Leicester City,AM,AM,28,2183,Premier League,2025-2026,8,0,58,23,2,8,79,1157,104,15,84.7,94,63,56.2,113,41,8,30,12,140,40.6
+Oliver Diallo,Leicester City,CM,CM,32,1539,Premier League,2025-2026,2,1,25,6,1,7,14,1113,56,7,83.9,36,23,58.5,18,26,7,27,10,106,53.9
+David Taylor V,Leicester City,CM,CM,25,1176,Premier League,2025-2026,0,1,21,3,3,1,15,515,91,4,80.6,31,0,64.2,22,5,6,16,7,96,52.2
+Gabriel Brown W,Leicester City,CM,CM,28,1649,Premier League,2025-2026,3,1,15,6,1,4,36,1102,102,13,90.1,49,17,68.7,50,20,32,24,14,63,45.3
+Jack King,Leicester City,DM,DM,30,2086,Premier League,2025-2026,2,2,19,3,1,3,25,1296,23,0,90.5,0,30,70.3,19,74,49,40,19,207,67.7
+Noah Rodriguez,Leicester City,DM,DM,27,907,Premier League,2025-2026,0,2,12,1,1,1,5,478,47,2,96.2,10,13,59.5,0,23,25,20,21,96,45.7
+Carlos Williams,Leicester City,FB,FB,32,687,Premier League,2025-2026,0,1,4,2,2,1,8,469,44,0,77.0,17,7,62.8,12,9,9,14,15,34,49.3
+James Diallo,Leicester City,FB,FB,26,1002,Premier League,2025-2026,1,1,19,0,1,0,22,741,82,4,79.1,30,1,73.3,21,21,23,11,28,56,52.4
+Dan Lopez,Leicester City,FB,FB,31,1630,Premier League,2025-2026,1,0,9,6,0,3,36,851,148,0,75.7,3,49,46.5,0,32,13,22,40,112,44.3
+Dan Rodriguez C,Leicester City,FB,FB,30,1369,Premier League,2025-2026,1,1,26,3,3,2,36,717,70,5,77.8,23,29,49.7,11,56,20,27,34,63,52.9
+Harry Diallo,Leicester City,CB,CB,28,2098,Premier League,2025-2026,2,1,16,8,1,1,5,519,76,1,90.9,25,7,50.2,8,45,57,43,116,155,57.5
+Harry Johnson E,Leicester City,CB,CB,18,2205,Premier League,2025-2026,1,1,13,7,2,1,12,1344,69,0,92.0,44,6,70.7,43,56,28,61,79,50,63.8
+Lucas Fernandez F,Leicester City,CB,CB,30,2696,Premier League,2025-2026,1,3,11,5,1,1,5,2014,38,2,94.3,27,5,75.3,23,62,49,14,184,239,74.3
+Marcus Wilson,Leicester City,CB,CB,20,2081,Premier League,2025-2026,0,1,8,1,0,0,7,1158,33,4,87.8,7,8,68.7,0,43,25,68,121,116,58.0
+Thomas King H,Leicester City,FW,FW,21,1998,Premier League,2025-2026,9,13,62,24,3,2,21,122,59,5,70.1,106,26,34.6,160,14,6,13,12,44,48.7
+George Rodriguez I,Leicester City,FW,FW,33,490,Premier League,2025-2026,0,2,21,6,1,2,4,33,0,0,83.4,11,6,58.0,31,3,2,4,2,9,42.9
+James King,Liverpool,FW,FW,27,2446,Premier League,2025-2026,5,20,41,45,8,1,28,454,45,13,68.5,58,54,41.8,99,16,9,16,15,30,26.1
+Ben King,Liverpool,FW,FW,29,2429,Premier League,2025-2026,10,6,81,50,4,2,4,733,74,7,81.4,75,21,50.6,104,5,9,26,0,33,36.7
+Leo Jones L,Liverpool,W,W,26,808,Premier League,2025-2026,4,5,22,5,0,3,11,264,16,3,77.2,51,11,62.8,33,2,4,10,5,48,31.6
+Ben Lopez,Liverpool,W,W,23,1992,Premier League,2025-2026,6,9,82,5,1,7,23,362,129,1,75.2,113,85,35.2,123,14,15,16,22,62,9.4
+George Rodriguez N,Liverpool,W,W,34,2336,Premier League,2025-2026,3,11,54,10,7,8,67,740,92,10,85.0,120,76,57.6,141,24,14,28,28,86,24.9
+Harry Smith,Liverpool,AM,AM,31,2731,Premier League,2025-2026,7,6,63,25,13,10,75,1431,214,9,74.7,187,66,51.2,110,33,23,25,26,143,38.1
+Harry Wilson P,Liverpool,AM,AM,30,2074,Premier League,2025-2026,4,4,54,9,10,7,53,1094,147,14,85.4,66,50,44.4,99,26,6,30,14,61,14.9
+Arthur Silva Q,Liverpool,CM,CM,18,1591,Premier League,2025-2026,2,6,25,4,5,5,46,1362,124,4,84.1,44,17,67.9,32,49,27,15,6,79,43.7
+Jack Traore,Liverpool,CM,CM,31,2106,Premier League,2025-2026,4,2,33,10,8,2,66,1050,82,6,99.6,89,37,64.4,26,54,28,54,27,133,36.4
+Arthur Gomez S,Liverpool,CM,CM,21,446,Premier League,2025-2026,1,0,10,4,1,2,6,210,29,2,83.2,17,7,50.0,11,13,6,10,3,34,36.3
+Lucas Evans T,Liverpool,DM,DM,24,1096,Premier League,2025-2026,1,1,9,5,1,1,8,777,47,5,83.8,35,8,53.4,11,24,22,18,30,93,44.3
+Mason Williams U,Liverpool,DM,DM,34,2321,Premier League,2025-2026,1,1,22,7,4,4,33,1447,219,4,88.4,71,26,44.1,21,87,26,56,53,240,48.8
+David Rodriguez V,Liverpool,FB,FB,31,776,Premier League,2025-2026,0,1,6,3,0,1,20,613,42,4,76.5,22,20,62.2,24,22,8,14,27,43,43.1
+David Smith,Liverpool,FB,FB,22,1963,Premier League,2025-2026,2,0,27,9,4,7,32,1024,96,3,73.0,77,28,61.7,34,46,21,34,61,83,46.9
+Leo Evans,Liverpool,FB,FB,19,2733,Premier League,2025-2026,2,3,43,7,1,6,27,1589,106,0,85.9,88,41,64.0,91,82,44,53,60,159,47.4
+Mateo Wilson Y,Liverpool,FB,FB,34,783,Premier League,2025-2026,0,0,1,2,1,3,12,341,28,3,77.4,28,17,50.6,13,19,15,16,18,46,42.3
+Ben Smith Z,Liverpool,CB,CB,21,1888,Premier League,2025-2026,0,2,16,2,2,0,2,768,109,2,87.8,4,6,91.8,0,29,52,56,78,121,67.7
+Jack Wilson,Liverpool,CB,CB,24,1223,Premier League,2025-2026,1,1,8,0,0,0,3,1184,54,1,93.8,2,3,61.6,12,29,25,30,54,80,57.3
+Noah Rodriguez B,Liverpool,CB,CB,25,1055,Premier League,2025-2026,0,1,9,2,0,0,4,637,13,0,88.5,4,10,72.9,4,27,24,24,52,60,59.7
+Lucas Jones C,Liverpool,CB,CB,28,1847,Premier League,2025-2026,0,2,11,2,0,0,0,1194,37,1,94.3,42,8,67.1,30,40,29,21,104,133,58.9
+Gabriel Smith,Liverpool,FW,FW,33,1782,Premier League,2025-2026,11,14,47,40,5,6,19,537,74,3,73.2,27,8,33.7,77,12,2,15,9,36,41.2
+Ben Santos E,Liverpool,FW,FW,23,813,Premier League,2025-2026,3,4,20,6,2,2,15,107,12,2,71.5,29,13,49.8,76,6,2,6,3,12,20.8
+Thomas King F,Manchester City,FW,FW,30,1811,Premier League,2025-2026,6,7,38,31,6,3,20,539,45,5,68.0,67,11,33.7,97,7,3,5,14,62,18.6
+Marcus Mendy G,Manchester City,FW,FW,30,1272,Premier League,2025-2026,9,7,34,15,4,0,19,335,18,5,69.2,24,9,54.5,28,14,2,13,8,33,34.8
+Ben King H,Manchester City,W,W,31,431,Premier League,2025-2026,2,1,8,4,2,1,11,158,15,0,74.5,40,13,46.2,25,7,1,8,3,12,42.6
+George Mendy I,Manchester City,W,W,21,524,Premier League,2025-2026,1,2,12,4,0,0,18,236,15,3,79.5,37,5,35.7,40,1,3,6,2,24,27.2
+Marcus Traore J,Manchester City,W,W,18,1468,Premier League,2025-2026,4,7,29,6,4,1,25,351,52,8,74.6,94,52,46.5,61,29,8,21,11,40,26.4
+Mateo King,Manchester City,AM,AM,34,1995,Premier League,2025-2026,6,1,34,12,9,7,30,1126,65,15,76.9,73,44,57.2,121,28,18,23,15,111,35.0
+Arthur Gomez L,Manchester City,AM,AM,27,2010,Premier League,2025-2026,8,10,52,17,5,9,58,570,146,8,73.9,33,32,44.9,8,25,12,25,9,150,41.2
+Liam Davies M,Manchester City,CM,CM,23,990,Premier League,2025-2026,1,2,9,3,1,0,19,536,82,1,82.2,13,7,48.5,30,18,14,13,6,66,54.0
+Oliver Fernandez,Manchester City,CM,CM,34,1821,Premier League,2025-2026,2,4,28,9,4,4,20,985,128,7,82.9,66,15,48.2,42,26,27,9,17,116,31.9
+Oliver Williams,Manchester City,CM,CM,20,1999,Premier League,2025-2026,2,5,39,17,2,7,18,1125,111,9,87.6,40,35,55.0,24,46,10,41,26,137,47.1
+Arthur Wilson,Manchester City,DM,DM,29,1606,Premier League,2025-2026,0,2,18,10,2,4,3,718,118,0,87.2,47,18,62.1,10,51,38,26,37,163,53.0
+Thomas Santos,Manchester City,DM,DM,24,486,Premier League,2025-2026,0,0,5,1,0,1,6,328,28,2,89.5,6,4,66.5,0,11,12,13,14,48,56.2
+Alex Jones R,Manchester City,FB,FB,22,2250,Premier League,2025-2026,0,3,9,3,7,0,17,1274,142,5,79.8,121,44,59.5,53,50,62,9,84,157,48.5
+Mason Fernandez S,Manchester City,FB,FB,24,1950,Premier League,2025-2026,1,3,13,7,9,0,27,1040,48,3,75.6,93,2,72.0,44,32,41,39,47,94,51.5
+Marcus Williams T,Manchester City,FB,FB,23,2053,Premier League,2025-2026,2,1,16,7,4,6,1,1567,114,0,75.9,10,12,53.7,62,57,35,21,35,98,38.9
+Oliver Santos,Manchester City,FB,FB,33,2654,Premier League,2025-2026,1,0,20,3,1,8,63,1450,136,6,77.1,116,7,45.3,26,76,37,64,84,125,52.3
+James Gomez V,Manchester City,CB,CB,25,564,Premier League,2025-2026,1,1,7,1,0,0,3,467,35,1,88.3,3,1,67.7,0,8,10,12,20,25,55.3
+James Evans,Manchester City,CB,CB,20,656,Premier League,2025-2026,0,0,2,2,0,0,1,557,35,0,93.6,8,5,66.4,9,8,11,19,8,40,60.9
+George Davies X,Manchester City,CB,CB,24,1004,Premier League,2025-2026,0,0,6,3,0,0,3,803,43,2,93.1,18,1,84.6,14,19,10,11,54,52,50.3
+Gabriel Gomez,Manchester City,CB,CB,32,583,Premier League,2025-2026,0,1,4,1,0,0,3,372,32,1,89.8,7,4,60.9,1,6,8,15,25,37,60.0
+Liam Silva Z,Manchester City,FW,FW,22,2609,Premier League,2025-2026,10,11,64,30,5,3,35,768,31,4,77.2,125,10,28.0,159,14,9,25,11,88,33.8
+Arthur Mendy,Manchester City,FW,FW,26,1170,Premier League,2025-2026,6,11,15,14,3,5,15,252,24,5,76.2,24,23,40.4,30,0,2,10,9,35,43.0
+Alex Garcia B,Manchester United,FW,FW,32,439,Premier League,2025-2026,2,4,9,4,0,2,3,84,5,1,72.1,5,7,30.7,19,0,0,4,0,5,42.0
+Leo Fernandez,Manchester United,FW,FW,27,1914,Premier League,2025-2026,7,8,46,25,1,2,19,420,73,3,76.3,12,37,27.8,151,10,4,13,0,26,52.0
+Arthur Lopez,Manchester United,W,W,20,1329,Premier League,2025-2026,1,0,49,5,5,6,31,441,58,8,79.9,44,65,52.5,85,21,13,22,8,57,38.1
+Mason Mendy E,Manchester United,W,W,28,362,Premier League,2025-2026,2,2,8,4,1,1,2,80,13,0,74.1,17,6,59.0,13,5,2,4,4,16,37.7
+Gabriel Brown F,Manchester United,W,W,34,2731,Premier League,2025-2026,7,15,57,12,4,13,43,929,79,15,79.7,76,82,36.9,115,33,32,37,8,105,43.2
+Arthur Mendy G,Manchester United,AM,AM,30,890,Premier League,2025-2026,1,1,38,13,3,3,19,458,42,0,74.4,38,7,52.5,21,9,10,13,6,55,40.8
+Carlos Brown H,Manchester United,AM,AM,26,1407,Premier League,2025-2026,3,3,43,11,7,2,46,914,114,1,77.8,54,38,42.3,34,8,6,11,17,58,42.9
+Noah Santos,Manchester United,CM,CM,25,2299,Premier League,2025-2026,3,2,48,13,0,4,35,1404,148,5,85.8,59,83,59.0,46,87,13,34,19,181,43.1
+Carlos Fernandez J,Manchester United,CM,CM,28,875,Premier League,2025-2026,1,2,22,3,3,3,13,484,58,5,86.8,22,0,63.4,1,11,10,8,13,56,55.9
+Thomas Davies,Manchester United,CM,CM,31,1972,Premier League,2025-2026,0,0,32,7,1,4,31,1423,130,4,86.5,56,11,56.0,44,47,30,25,30,140,49.3
+Marcus Jones,Manchester United,DM,DM,28,1111,Premier League,2025-2026,0,1,3,1,2,0,19,952,33,1,78.9,13,14,58.7,13,18,28,19,22,90,43.6
+Arthur Brown,Manchester United,DM,DM,27,1113,Premier League,2025-2026,0,1,4,3,1,2,14,508,67,5,79.3,31,18,50.1,6,39,16,31,31,64,48.3
+Thomas Gomez,Manchester United,FB,FB,27,360,Premier League,2025-2026,0,1,4,1,1,2,11,165,23,2,76.5,14,8,36.9,9,6,6,8,1,25,66.4
+James Santos,Manchester United,FB,FB,31,2296,Premier League,2025-2026,1,2,31,0,6,7,45,1249,87,10,80.2,52,27,58.3,6,56,30,55,18,161,60.2
+James Davies,Manchester United,FB,FB,19,521,Premier League,2025-2026,0,1,0,2,0,1,5,191,29,1,83.0,6,11,63.0,11,11,9,8,17,28,47.1
+Mateo Traore Q,Manchester United,FB,FB,24,2687,Premier League,2025-2026,0,3,30,2,7,4,5,1817,112,2,78.2,106,38,59.9,13,50,40,73,63,194,46.4
+George Taylor R,Manchester United,CB,CB,23,2297,Premier League,2025-2026,0,0,11,0,1,0,5,1736,94,1,82.4,54,16,88.6,12,25,54,46,137,190,67.1
+Mason Lopez,Manchester United,CB,CB,21,482,Premier League,2025-2026,0,1,5,1,0,0,3,268,28,0,92.0,5,2,72.4,1,10,1,8,28,37,67.8
+George Santos T,Manchester United,CB,CB,29,2010,Premier League,2025-2026,1,2,4,7,1,1,4,1698,70,2,86.2,11,14,63.6,8,31,44,34,97,123,48.7
+Mason Taylor,Manchester United,CB,CB,26,1691,Premier League,2025-2026,0,1,17,5,1,0,5,1128,99,2,85.3,36,6,42.5,16,37,22,34,102,111,51.5
+James Santos V,Manchester United,FW,FW,20,1296,Premier League,2025-2026,9,7,43,11,0,3,22,240,45,1,68.7,35,15,52.7,57,13,7,10,11,20,54.9
+Carlos Diallo,Manchester United,FW,FW,31,2201,Premier League,2025-2026,17,5,84,42,2,1,17,513,31,4,68.6,119,28,56.5,159,12,5,12,6,34,28.6
+Oliver Wilson X,Newcastle United,FW,FW,33,1195,Premier League,2025-2026,3,10,41,4,3,2,12,259,30,4,79.9,40,4,40.3,151,10,7,15,6,32,41.6
+Leo Brown Y,Newcastle United,FW,FW,19,878,Premier League,2025-2026,1,2,21,18,1,2,11,166,40,0,70.3,24,25,44.8,59,4,2,6,6,28,39.2
+Oliver Brown Z,Newcastle United,W,W,23,2362,Premier League,2025-2026,8,13,31,17,9,7,30,392,135,0,80.2,111,93,42.6,249,34,18,21,12,97,52.0
+Ben Diallo,Newcastle United,W,W,32,1439,Premier League,2025-2026,6,7,44,23,4,6,17,574,49,8,68.4,101,0,49.5,28,23,8,13,15,45,3.7
+Marcus Traore B,Newcastle United,W,W,27,1120,Premier League,2025-2026,0,5,25,5,3,1,23,207,50,2,74.7,71,19,51.5,26,18,13,28,7,58,16.2
+Marcus Mendy C,Newcastle United,AM,AM,19,738,Premier League,2025-2026,4,2,19,4,4,1,13,270,56,3,74.3,24,13,43.6,16,19,3,9,4,33,42.2
+Mason Smith D,Newcastle United,AM,AM,27,1778,Premier League,2025-2026,0,0,17,14,8,9,60,728,149,6,85.3,29,13,66.2,65,19,21,33,9,96,37.4
+George Mendy E,Newcastle United,CM,CM,32,1674,Premier League,2025-2026,0,3,14,6,0,4,27,987,61,7,92.4,48,30,51.0,32,19,30,28,11,94,48.6
+Mason Lopez F,Newcastle United,CM,CM,28,871,Premier League,2025-2026,0,2,9,2,2,2,11,597,47,0,91.0,18,7,52.3,18,18,16,22,8,47,42.8
+Oliver King G,Newcastle United,CM,CM,29,880,Premier League,2025-2026,2,2,19,6,2,2,9,595,85,4,93.6,11,5,64.8,20,30,12,9,11,40,36.7
+Liam Rodriguez H,Newcastle United,DM,DM,34,1659,Premier League,2025-2026,1,0,12,0,3,1,9,1114,77,8,85.1,11,0,61.8,10,29,46,39,33,177,61.0
+Mason Santos I,Newcastle United,DM,DM,28,1566,Premier League,2025-2026,0,1,19,1,1,2,21,987,41,3,90.9,48,16,50.1,10,54,40,36,28,153,49.2
+Lucas Santos,Newcastle United,FB,FB,27,2309,Premier League,2025-2026,1,1,0,5,3,2,53,1420,220,8,77.1,52,24,49.0,41,29,44,40,67,98,48.5
+Arthur Williams,Newcastle United,FB,FB,20,2355,Premier League,2025-2026,3,4,0,11,0,10,39,984,201,1,79.0,172,41,36.8,34,51,39,39,69,88,40.5
+James Lopez L,Newcastle United,FB,FB,20,2411,Premier League,2025-2026,0,3,11,8,4,7,34,1013,107,3,89.3,88,35,62.9,40,80,33,34,38,199,45.3
+Lucas Traore M,Newcastle United,FB,FB,21,2724,Premier League,2025-2026,0,3,11,5,10,8,59,1286,173,5,79.1,113,27,68.4,42,80,64,61,32,174,54.5
+Marcus King,Newcastle United,CB,CB,31,860,Premier League,2025-2026,1,1,6,2,1,0,3,560,30,1,90.2,7,6,80.7,4,23,11,23,61,51,57.5
+Ben Wilson,Newcastle United,CB,CB,25,1771,Premier League,2025-2026,0,0,18,6,0,1,9,1078,73,2,84.3,19,8,69.0,0,41,33,25,138,100,61.7
+Carlos Williams P,Newcastle United,CB,CB,27,1364,Premier League,2025-2026,1,0,7,2,0,0,6,977,53,1,92.5,4,9,72.2,12,26,10,41,86,66,70.1
+George Fernandez Q,Newcastle United,CB,CB,30,2206,Premier League,2025-2026,1,1,21,3,2,1,12,1620,104,2,87.0,30,17,75.2,22,16,37,42,72,161,47.8
+Lucas Mendy,Newcastle United,FW,FW,24,1410,Premier League,2025-2026,2,7,46,4,1,1,11,300,26,2,76.1,72,33,25.8,104,7,3,9,7,36,35.1
+Gabriel Fernandez,Newcastle United,FW,FW,33,1450,Premier League,2025-2026,4,11,62,19,2,3,8,271,40,5,72.6,44,10,52.0,86,7,2,11,4,44,37.3
+Leo Smith T,Nottingham Forest,FW,FW,20,972,Premier League,2025-2026,7,7,37,3,1,2,15,277,9,3,68.7,24,11,53.6,75,6,0,9,3,36,55.8
+Oliver Evans,Nottingham Forest,FW,FW,30,687,Premier League,2025-2026,2,3,40,7,3,3,10,151,11,1,70.6,19,2,30.8,62,0,3,1,4,16,57.9
+Mason King,Nottingham Forest,W,W,32,378,Premier League,2025-2026,2,1,4,3,2,1,9,112,11,1,80.9,29,9,74.8,21,4,4,1,3,16,48.5
+Noah Davies,Nottingham Forest,W,W,25,2260,Premier League,2025-2026,10,5,67,36,10,2,68,639,105,4,77.7,145,19,57.5,181,25,23,26,19,34,58.2
+David Gomez,Nottingham Forest,W,W,19,2230,Premier League,2025-2026,5,9,88,31,0,5,51,803,76,6,77.3,80,89,68.8,137,24,19,35,10,93,27.9
+Mason Gomez,Nottingham Forest,AM,AM,25,637,Premier League,2025-2026,2,3,12,5,3,4,21,251,32,4,82.6,17,15,53.7,8,6,4,8,8,34,27.6
+Leo Taylor,Nottingham Forest,AM,AM,18,712,Premier League,2025-2026,3,2,25,8,1,5,21,266,67,10,80.8,24,12,58.7,43,13,6,14,4,45,33.1
+Lucas Gomez,Nottingham Forest,CM,CM,25,377,Premier League,2025-2026,1,0,5,2,1,1,9,192,41,2,84.1,11,2,57.8,0,12,0,6,3,22,42.3
+Alex Diallo,Nottingham Forest,CM,CM,24,1751,Premier League,2025-2026,0,1,4,3,0,4,25,1185,112,5,94.0,59,22,51.2,14,51,30,43,28,110,53.1
+Leo Garcia C,Nottingham Forest,CM,CM,33,2628,Premier League,2025-2026,3,3,64,19,5,7,49,1526,264,12,81.2,49,18,61.9,44,68,49,70,30,123,65.9
+Dan Mendy,Nottingham Forest,DM,DM,22,933,Premier League,2025-2026,1,1,10,4,0,2,7,735,30,2,80.1,15,10,57.8,3,35,18,16,19,120,65.4
+James Santos E,Nottingham Forest,DM,DM,18,2545,Premier League,2025-2026,3,2,16,0,1,0,15,1838,145,16,86.5,38,35,46.6,2,91,48,48,32,220,47.7
+Mateo Jones,Nottingham Forest,FB,FB,28,1706,Premier League,2025-2026,0,2,17,5,0,4,36,726,75,6,77.0,56,11,71.4,36,38,22,17,40,114,37.9
+James Santos G,Nottingham Forest,FB,FB,34,811,Premier League,2025-2026,0,0,4,0,1,3,12,495,67,2,77.5,34,8,50.5,3,26,11,14,12,52,38.4
+Mason Taylor H,Nottingham Forest,FB,FB,33,1719,Premier League,2025-2026,1,1,3,4,5,2,4,850,137,7,77.4,72,33,68.4,5,28,8,22,58,86,32.9
+Gabriel Johnson I,Nottingham Forest,FB,FB,28,448,Premier League,2025-2026,0,0,1,1,1,1,10,272,21,1,80.4,17,10,60.8,16,19,7,0,16,23,38.0
+Ben Lopez J,Nottingham Forest,CB,CB,19,1192,Premier League,2025-2026,0,0,13,4,1,0,2,906,52,1,91.4,24,5,60.1,2,24,36,16,80,62,60.2
+Mateo Wilson K,Nottingham Forest,CB,CB,21,2465,Premier League,2025-2026,2,1,32,3,1,1,0,805,74,4,92.3,50,3,84.2,9,49,44,49,175,127,53.2
+Thomas Santos L,Nottingham Forest,CB,CB,26,540,Premier League,2025-2026,1,0,2,0,0,0,2,468,30,1,88.4,8,1,85.2,4,10,3,11,34,25,58.0
+Mason Garcia,Nottingham Forest,CB,CB,25,2601,Premier League,2025-2026,2,0,24,3,1,0,11,2671,133,1,93.5,28,23,76.1,0,35,60,58,89,137,48.8
+Noah Smith N,Nottingham Forest,FW,FW,18,1954,Premier League,2025-2026,14,20,78,37,8,4,22,525,67,3,70.4,58,35,53.0,58,23,2,13,3,95,44.9
+Dan Lopez O,Nottingham Forest,FW,FW,26,2711,Premier League,2025-2026,8,18,81,30,7,4,15,803,4,13,76.5,40,34,40.7,214,22,8,28,11,109,56.7
+Carlos Jones,Southampton,FW,FW,19,2533,Premier League,2025-2026,8,8,130,24,3,7,25,310,44,14,71.6,40,38,41.9,309,7,13,30,8,62,29.6
+George Taylor Q,Southampton,FW,FW,21,2314,Premier League,2025-2026,9,6,45,29,6,7,12,416,58,6,77.5,51,48,45.0,180,10,5,6,4,52,43.2
+Gabriel Diallo,Southampton,W,W,31,1117,Premier League,2025-2026,0,2,37,13,3,3,31,425,38,1,68.5,62,5,54.3,53,26,7,14,0,30,40.8
+Oliver Rodriguez,Southampton,W,W,32,583,Premier League,2025-2026,2,3,10,7,2,2,20,150,36,1,81.0,32,11,37.0,28,6,4,9,2,37,28.6
+Gabriel Wilson,Southampton,W,W,25,1827,Premier League,2025-2026,8,6,60,11,0,4,26,556,52,10,75.6,111,52,53.8,97,28,5,34,9,48,35.9
+Noah Fernandez U,Southampton,AM,AM,19,2112,Premier League,2025-2026,3,4,52,6,8,4,45,727,160,21,81.1,61,67,47.0,13,36,7,37,11,123,50.0
+Ben Santos V,Southampton,AM,AM,28,2384,Premier League,2025-2026,0,6,44,22,6,9,56,1215,64,17,76.3,144,22,61.0,95,10,10,41,22,78,51.6
+Gabriel Johnson W,Southampton,CM,CM,33,2156,Premier League,2025-2026,3,5,21,7,5,4,44,1314,158,5,86.0,43,47,52.9,67,46,31,28,17,90,37.4
+Carlos Brown X,Southampton,CM,CM,34,755,Premier League,2025-2026,2,1,7,1,2,3,19,508,58,5,86.5,29,8,47.1,10,18,10,20,10,66,43.6
+Harry Brown Y,Southampton,CM,CM,31,877,Premier League,2025-2026,1,1,15,4,2,3,14,635,55,2,83.2,30,18,58.0,12,30,5,10,16,85,52.8
+George Rodriguez Z,Southampton,DM,DM,19,2709,Premier League,2025-2026,1,1,14,6,3,6,20,1730,217,14,89.9,45,18,47.3,10,84,51,64,50,188,58.1
+Gabriel Traore A,Southampton,DM,DM,21,2110,Premier League,2025-2026,4,1,29,1,3,2,14,2255,138,7,92.6,13,35,41.9,10,55,50,45,39,173,46.2
+Liam Silva B,Southampton,FB,FB,31,2156,Premier League,2025-2026,2,3,9,7,3,7,48,1206,105,8,82.9,55,9,52.4,65,72,20,22,77,92,51.1
+Dan Garcia,Southampton,FB,FB,18,1304,Premier League,2025-2026,0,1,3,4,4,5,15,516,62,1,81.9,20,1,51.9,30,21,26,24,50,61,29.9
+Leo Williams,Southampton,FB,FB,22,2146,Premier League,2025-2026,1,1,20,0,5,6,35,1576,124,8,80.4,102,5,55.3,14,55,38,45,62,114,38.5
+Dan King,Southampton,FB,FB,30,500,Premier League,2025-2026,0,0,6,3,0,1,4,364,22,0,82.9,30,10,56.8,10,18,5,8,10,21,42.7
+Liam Santos F,Southampton,CB,CB,18,2146,Premier League,2025-2026,2,0,19,6,1,0,0,1463,76,3,89.3,26,0,76.2,10,36,25,23,156,154,70.5
+Jack Traore G,Southampton,CB,CB,25,590,Premier League,2025-2026,0,0,3,0,0,0,3,437,19,0,93.9,6,3,69.6,8,14,6,8,35,36,60.4
+Gabriel Santos,Southampton,CB,CB,29,1174,Premier League,2025-2026,1,1,13,1,0,0,6,851,25,0,91.0,20,1,56.1,13,34,18,18,64,82,61.1
+Gabriel Traore I,Southampton,CB,CB,24,966,Premier League,2025-2026,1,1,4,0,0,0,5,811,55,0,85.5,17,6,72.0,0,14,17,24,60,61,66.6
+Arthur King J,Southampton,FW,FW,28,2003,Premier League,2025-2026,6,8,41,20,6,8,7,262,44,0,75.2,70,34,50.1,99,10,1,19,20,57,33.7
+Liam Mendy K,Southampton,FW,FW,30,635,Premier League,2025-2026,5,3,19,7,1,2,6,115,12,1,70.9,16,9,36.0,36,8,1,3,1,8,61.5
+Mason Smith L,Tottenham Hotspur,FW,FW,24,1914,Premier League,2025-2026,4,12,120,37,3,6,13,285,37,5,67.5,45,22,60.4,62,2,5,22,12,52,38.5
+James Davies M,Tottenham Hotspur,FW,FW,22,1403,Premier League,2025-2026,9,5,29,10,6,3,20,182,37,3,75.1,21,19,40.8,62,11,0,14,9,23,32.2
+Dan Jones,Tottenham Hotspur,W,W,25,637,Premier League,2025-2026,1,0,20,11,2,0,13,183,28,1,75.3,19,19,39.6,40,5,0,10,5,37,13.1
+Mason Davies,Tottenham Hotspur,W,W,19,1742,Premier League,2025-2026,4,2,51,13,0,3,42,261,82,8,75.7,44,13,48.4,54,18,15,19,8,67,44.1
+Mason Williams P,Tottenham Hotspur,W,W,32,2064,Premier League,2025-2026,8,6,51,17,5,3,32,566,90,2,76.5,90,45,46.1,118,23,16,29,1,63,32.3
+James Williams Q,Tottenham Hotspur,AM,AM,21,1115,Premier League,2025-2026,3,3,26,14,6,3,38,615,92,9,71.3,44,8,51.4,62,18,14,17,3,18,37.5
+George Jones R,Tottenham Hotspur,AM,AM,31,2590,Premier League,2025-2026,0,5,54,29,9,15,45,1462,161,23,78.8,153,53,47.6,103,34,25,21,17,143,36.3
+Alex Taylor,Tottenham Hotspur,CM,CM,33,2259,Premier League,2025-2026,6,2,45,2,5,2,0,1220,143,6,86.1,63,31,59.4,44,50,19,43,27,143,53.1
+Thomas Lopez,Tottenham Hotspur,CM,CM,30,2196,Premier League,2025-2026,5,4,46,8,5,3,15,1333,148,7,86.7,106,26,50.3,38,49,41,35,15,179,54.5
+Liam Gomez U,Tottenham Hotspur,CM,CM,28,1511,Premier League,2025-2026,2,3,21,3,3,6,21,1084,98,2,83.7,47,27,77.0,31,21,6,20,11,117,53.7
+Oliver Lopez,Tottenham Hotspur,DM,DM,21,1844,Premier League,2025-2026,1,0,13,5,2,4,16,953,191,5,91.3,43,18,60.2,0,38,41,9,38,173,62.5
+Carlos Gomez,Tottenham Hotspur,DM,DM,26,876,Premier League,2025-2026,1,0,3,0,1,0,4,725,24,2,87.7,17,13,55.4,15,13,21,25,0,71,53.9
+Oliver Johnson X,Tottenham Hotspur,FB,FB,32,1003,Premier League,2025-2026,0,2,7,3,3,1,16,711,49,2,74.8,58,11,65.8,11,34,20,15,18,49,39.3
+Liam Davies Y,Tottenham Hotspur,FB,FB,18,1013,Premier League,2025-2026,1,0,7,3,2,2,19,498,67,5,73.1,31,33,56.5,17,23,23,12,33,55,38.5
+George Diallo,Tottenham Hotspur,FB,FB,27,688,Premier League,2025-2026,0,1,7,2,2,1,14,422,49,0,82.3,33,8,50.1,7,11,13,20,13,35,46.2
+Dan Jones A,Tottenham Hotspur,FB,FB,29,1398,Premier League,2025-2026,0,1,5,1,3,4,18,485,134,3,81.4,24,33,67.3,2,33,20,42,52,54,38.7
+Jack Taylor B,Tottenham Hotspur,CB,CB,22,2337,Premier League,2025-2026,2,1,17,3,0,1,8,1107,151,1,91.6,25,22,65.6,1,55,62,43,142,147,60.9
+Alex Jones C,Tottenham Hotspur,CB,CB,19,1766,Premier League,2025-2026,1,0,10,3,1,0,14,1485,96,4,89.7,18,1,61.0,6,28,34,48,113,80,69.5
+Thomas Santos D,Tottenham Hotspur,CB,CB,34,1729,Premier League,2025-2026,2,1,9,0,0,0,4,819,55,1,89.8,1,0,71.6,7,43,33,43,124,99,59.4
+Leo Wilson E,Tottenham Hotspur,CB,CB,31,2372,Premier League,2025-2026,2,1,15,3,2,1,10,1908,107,1,88.6,11,26,77.3,0,62,23,58,37,131,74.7
+Carlos Garcia F,Tottenham Hotspur,FW,FW,23,725,Premier League,2025-2026,6,5,21,17,1,1,14,168,21,3,72.1,37,0,25.2,33,3,2,4,3,16,66.1
+Alex Johnson G,Tottenham Hotspur,FW,FW,26,1134,Premier League,2025-2026,3,5,17,32,1,3,20,253,46,2,69.8,18,20,43.1,47,8,4,10,8,29,34.9
+Jack Jones H,West Ham United,FW,FW,21,2619,Premier League,2025-2026,18,12,40,32,6,10,15,449,42,12,73.8,41,42,41.0,89,7,13,24,13,58,45.5
+Oliver King I,West Ham United,FW,FW,19,809,Premier League,2025-2026,5,3,20,2,3,2,6,147,11,4,66.9,24,9,53.3,48,0,1,4,4,30,21.1
+Lucas Johnson J,West Ham United,W,W,22,2404,Premier League,2025-2026,12,11,46,41,6,8,49,584,102,13,74.8,150,66,60.2,114,32,17,26,7,82,38.1
+Jack Fernandez,West Ham United,W,W,23,901,Premier League,2025-2026,3,5,33,7,3,5,19,274,30,1,81.2,51,22,58.2,62,8,3,9,11,54,41.1
+Mason Gomez L,West Ham United,W,W,20,598,Premier League,2025-2026,2,2,17,12,2,2,0,200,11,2,77.2,31,11,46.4,29,6,3,7,6,10,36.4
+David Traore M,West Ham United,AM,AM,24,1808,Premier League,2025-2026,5,7,40,22,9,12,38,860,95,0,84.5,92,23,40.2,62,33,23,18,19,105,40.1
+Oliver Garcia,West Ham United,AM,AM,27,2158,Premier League,2025-2026,8,10,22,15,10,6,42,1251,76,12,82.6,72,53,48.4,134,30,22,36,10,49,39.6
+Liam Johnson,West Ham United,CM,CM,28,2066,Premier League,2025-2026,3,4,23,3,6,5,30,1061,157,3,86.1,33,58,52.5,55,29,26,42,40,167,46.6
+Alex Wilson P,West Ham United,CM,CM,25,2092,Premier League,2025-2026,6,3,34,15,5,4,45,1035,74,14,82.6,57,25,53.2,65,55,24,18,31,64,50.3
+Ben Brown,West Ham United,CM,CM,34,1440,Premier League,2025-2026,4,3,29,7,6,6,11,507,114,9,84.0,36,11,48.7,45,29,22,8,27,112,34.6
+Harry Traore,West Ham United,DM,DM,26,359,Premier League,2025-2026,0,0,2,1,0,0,6,235,7,1,88.4,4,4,50.3,3,6,6,9,7,28,55.2
+James Smith,West Ham United,DM,DM,24,2378,Premier League,2025-2026,2,3,2,5,3,2,7,1450,207,8,92.6,19,24,62.7,23,83,50,32,59,231,66.9
+Noah Silva,West Ham United,FB,FB,21,1575,Premier League,2025-2026,0,2,18,3,6,0,22,893,12,3,74.9,31,19,38.6,15,16,26,27,34,112,43.0
+Arthur Brown U,West Ham United,FB,FB,32,431,Premier League,2025-2026,0,0,3,1,0,1,5,213,25,1,80.1,11,5,55.0,2,9,8,4,15,32,33.5
+Liam Smith,West Ham United,FB,FB,22,2566,Premier League,2025-2026,1,2,27,6,0,5,65,1342,204,5,72.9,75,26,52.9,16,63,35,61,35,157,50.1
+Marcus Rodriguez W,West Ham United,FB,FB,24,2559,Premier League,2025-2026,2,2,51,0,2,7,27,1542,137,9,74.9,97,46,56.2,46,86,16,44,35,174,37.6
+Harry Smith X,West Ham United,CB,CB,21,903,Premier League,2025-2026,0,1,9,2,0,0,1,552,63,1,89.0,21,0,74.2,1,19,16,23,31,49,69.3
+George Santos Y,West Ham United,CB,CB,34,365,Premier League,2025-2026,0,0,1,0,0,0,2,315,16,0,92.5,6,1,80.1,4,11,4,4,12,21,76.7
+Liam Evans Z,West Ham United,CB,CB,21,2694,Premier League,2025-2026,0,1,28,4,0,0,9,1596,107,2,93.8,36,0,76.2,44,53,51,43,125,183,73.1
+Alex Silva,West Ham United,CB,CB,28,2601,Premier League,2025-2026,2,2,5,5,1,1,9,1830,89,2,85.2,28,24,71.2,20,77,27,36,199,161,62.1
+Alex Evans B,West Ham United,FW,FW,21,2727,Premier League,2025-2026,0,23,51,30,8,5,50,828,15,10,80.6,62,28,25.9,214,0,10,8,25,76,54.1
+Lucas Smith,West Ham United,FW,FW,20,1312,Premier League,2025-2026,4,11,34,16,2,1,18,112,40,3,71.4,22,14,51.9,96,4,1,13,3,33,43.5
+Leo Traore D,Wolverhampton Wanderers,FW,FW,27,508,Premier League,2025-2026,1,1,13,12,2,2,6,41,0,1,73.0,23,9,47.3,21,1,1,5,3,8,49.8
+Dan Johnson,Wolverhampton Wanderers,FW,FW,21,2396,Premier League,2025-2026,14,16,69,53,5,3,29,489,30,2,77.5,94,39,60.2,118,27,2,11,0,49,36.0
+Leo Silva,Wolverhampton Wanderers,W,W,18,2705,Premier League,2025-2026,4,6,104,29,9,2,79,1154,24,6,79.5,191,50,49.3,112,35,26,24,24,88,25.5
+Harry Gomez,Wolverhampton Wanderers,W,W,32,2019,Premier League,2025-2026,10,10,52,11,6,4,69,905,94,14,77.3,148,90,54.2,97,6,11,32,18,98,28.6
+Carlos Jones H,Wolverhampton Wanderers,W,W,32,1515,Premier League,2025-2026,2,11,27,15,5,6,30,403,45,7,73.6,54,31,40.1,137,24,17,22,16,71,41.3
+Leo Davies I,Wolverhampton Wanderers,AM,AM,31,1315,Premier League,2025-2026,0,5,34,14,6,6,48,790,113,0,82.2,37,36,34.7,83,13,5,20,7,97,49.6
+Lucas Garcia J,Wolverhampton Wanderers,AM,AM,27,1186,Premier League,2025-2026,1,4,26,10,6,6,50,468,83,8,82.7,29,6,52.7,32,23,2,8,6,35,52.8
+Lucas Jones K,Wolverhampton Wanderers,CM,CM,25,906,Premier League,2025-2026,1,0,17,4,1,2,18,381,59,1,85.7,35,13,62.9,12,21,11,13,8,56,36.9
+Gabriel Mendy,Wolverhampton Wanderers,CM,CM,20,1529,Premier League,2025-2026,2,3,17,4,3,5,14,853,48,4,85.2,32,16,46.7,32,48,11,18,25,134,33.1
+Ben Davies,Wolverhampton Wanderers,CM,CM,25,626,Premier League,2025-2026,1,1,15,2,2,1,8,579,56,2,88.4,11,4,66.9,13,14,7,10,7,23,62.2
+Lucas Gomez N,Wolverhampton Wanderers,DM,DM,18,1753,Premier League,2025-2026,0,0,7,2,1,3,19,1217,157,6,91.1,5,10,49.2,8,65,30,46,45,146,64.9
+Oliver Fernandez O,Wolverhampton Wanderers,DM,DM,19,2459,Premier League,2025-2026,4,0,11,9,0,5,30,2143,133,0,89.7,74,32,56.7,23,62,36,62,26,163,45.1
+Jack Santos P,Wolverhampton Wanderers,FB,FB,30,2277,Premier League,2025-2026,1,0,21,9,2,0,31,1425,108,0,83.4,128,33,40.5,32,58,25,45,37,132,43.7
+Lucas Mendy Q,Wolverhampton Wanderers,FB,FB,19,1814,Premier League,2025-2026,2,1,8,5,6,3,32,1397,135,6,82.5,49,16,56.3,33,32,35,27,63,103,44.6
+Carlos Traore,Wolverhampton Wanderers,FB,FB,24,435,Premier League,2025-2026,0,0,5,1,1,1,6,232,19,0,75.5,7,3,53.4,8,10,1,11,15,28,65.1
+Leo Davies S,Wolverhampton Wanderers,FB,FB,22,937,Premier League,2025-2026,0,0,9,3,2,3,15,439,52,0,82.8,45,9,46.9,10,22,16,24,35,65,47.2
+Mason Lopez T,Wolverhampton Wanderers,CB,CB,21,858,Premier League,2025-2026,1,1,8,2,0,0,3,382,20,1,85.1,9,1,63.4,6,14,8,17,30,45,69.9
+Arthur Smith,Wolverhampton Wanderers,CB,CB,23,2432,Premier League,2025-2026,2,1,11,9,1,0,10,2063,136,3,90.4,0,11,69.8,17,55,41,45,161,135,64.5
+Oliver Smith V,Wolverhampton Wanderers,CB,CB,21,1827,Premier League,2025-2026,2,1,9,0,0,0,6,1228,94,6,88.1,9,11,70.2,10,44,24,37,89,89,50.3
+Alex Williams,Wolverhampton Wanderers,CB,CB,33,356,Premier League,2025-2026,0,0,0,1,0,0,3,284,16,1,91.9,3,0,76.8,6,9,3,6,17,13,53.0
+Carlos Rodriguez,Wolverhampton Wanderers,FW,FW,31,1096,Premier League,2025-2026,3,2,47,12,2,1,9,314,12,3,74.0,2,15,29.6,82,2,3,7,2,29,24.3
+Thomas Traore Y,Wolverhampton Wanderers,FW,FW,23,1247,Premier League,2025-2026,6,9,52,13,2,0,10,120,30,5,71.7,17,18,36.3,95,15,1,7,0,32,42.9

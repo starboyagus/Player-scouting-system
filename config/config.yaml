@@ -1,0 +1,82 @@
+# Scouting System Configuration
+project:
+  name: "Football Player Scouting & Similarity System"
+  version: "1.0.0"
+
+data:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  current_league: "premier_league"
+  current_season: "2025-2026"
+  min_minutes: 450
+
+features:
+  id_columns:
+    - "player"
+    - "squad"
+    - "position"
+    - "position_category"
+    - "age"
+    - "minutes"
+    - "league"
+    - "season"
+
+  # Metrics to normalize per 90 minutes (count-based stats)
+  per_90_metrics:
+    - "goals"
+    - "xg"
+    - "shots"
+    - "shots_on_target"
+    - "assists"
+    - "xag"
+    - "key_passes"
+    - "passes_completed"
+    - "progressive_passes"
+    - "through_balls"
+    - "progressive_carries"
+    - "successful_takeons"
+    - "touches_att_pen"
+    - "tackles_won"
+    - "interceptions"
+    - "blocks"
+    - "clearances"
+    - "ball_recoveries"
+
+  # Metrics that are already percentage or rate based (keep as is)
+  rate_metrics:
+    - "pass_completion_pct"
+    - "takeon_success_pct"
+    - "aerials_won_pct"
+
+  # Metric categories for scouting domain breakdown and radar visualizations
+  categories:
+    attacking:
+      - "goals_per90"
+      - "xg_per90"
+      - "shots_per90"
+      - "touches_att_pen_per90"
+    creation:
+      - "assists_per90"
+      - "xag_per90"
+      - "key_passes_per90"
+      - "through_balls_per90"
+    progression:
+      - "progressive_passes_per90"
+      - "progressive_carries_per90"
+      - "successful_takeons_per90"
+      - "takeon_success_pct"
+    defending:
+      - "tackles_won_per90"
+      - "interceptions_per90"
+      - "blocks_per90"
+      - "ball_recoveries_per90"
+      - "aerials_won_pct"
+
+clustering:
+  n_clusters: 6
+  random_state: 42
+  pca_components: 2
+
+similarity:
+  default_metric: "cosine"
+  top_n: 5
