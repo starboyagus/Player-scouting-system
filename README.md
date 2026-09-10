@@ -1,5 +1,5 @@
 # ⚽ Football Player Scouting & Similarity System
-> **Premier League 2025/2026 Edition (Multi-League Scalable)**  
+> **Multi-League Scalable**  
 > *A Machine Learning & Systems Engineering Portfolio Project*
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
@@ -13,7 +13,7 @@
 
 In modern football recruitment, scouting departments face two fundamental challenges:
 1. **The Playing Time Distortion**: Comparing raw counting stats (e.g., total goals, tackles) misleads analysis because playing time varies wildly between starters and rotation players.
-2. **Identifying Stylistic Replacement Targets ("Player Twins")**: When a club needs to replace a key player (e.g., an aging winger or a sold playmaker) or find undervalued talent in other leagues, they need to identify players who replicate the exact **tactical profile**, not just raw output.
+2. **Identifying Stylistic Replacement Targets**: When a club needs to replace a key player (e.g., an aging winger or a sold playmaker) or find undervalued talent in other leagues, they need to identify players who replicate the exact **tactical profile**, not just raw output.
 
 This project delivers an end-to-end, modular data science and machine learning system that:
 - Normalizes performance data via **Per-90 minute rates** and **within-position percentile rankings**.
@@ -31,9 +31,9 @@ The codebase follows professional software engineering separation of concerns:
 ```
 Player Scouting System/
 ├── config/
-│   └── config.yaml             # Single source of truth: metrics, thresholds, hyperparameters
+│   └── config.yaml           # Single source of truth: metrics, thresholds, hyperparameters
 ├── data/
-│   ├── raw/                    # Raw league CSV datasets (e.g. premier_league_2025_2026.csv)
+│   ├── raw/                        # Raw league CSV datasets
 │   └── processed/              # Preprocessed & clustered feature matrices
 ├── src/
 │   ├── data/
@@ -86,23 +86,32 @@ $$\text{Match Percentage} = \max\left(0, \min\left(100, \frac{\cos(\theta) + 1}{
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Installation
+
 Clone the repository and install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
 ### 2. Run the Full Pipeline
+
 Execute the end-to-end pipeline:
 ```bash
 python -m src.pipeline
 ```
 
 ### 3. Run Automated Tests
+
 ```bash
 python -m pytest -v
+```
+
+### 4. Run the application
+
+```bash 
+python -m streamlit run app/app.py
 ```
 
 ---
